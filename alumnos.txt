@@ -1,1 +1,3 @@
 alumno1 alumno1@mail.com
+alumno2 alumno2@gmail.com
+alumno3 alumno3@gmail.com
